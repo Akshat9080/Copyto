@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    font-family: 'poppins',sans-serif;
+    color: crimson;
+    font-style: italic;
+}
+
